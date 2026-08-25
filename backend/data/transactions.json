@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "tx_79aba45e8132",
+    "request_id": "req_0e8cb63c8d2c",
+    "book_id": "book_11de3a90a378",
+    "book_title": "Discrete Mathematics and Its Applications",
+    "book_image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600",
+    "requester_id": "user_student_001",
+    "requester_name": "Alex Rivera",
+    "owner_id": "user_seller_001",
+    "owner_name": "Elena Rostova",
+    "transaction_type": "buy",
+    "amount": 29.5,
+    "status": "completed",
+    "is_reviewed_by_requester": true,
+    "is_reviewed_by_owner": false,
+    "created_at": "2026-08-25T16:07:53.177690",
+    "completed_at": "2026-08-25T16:07:53.198915",
+    "updated_at": "2026-08-25T16:07:53.228608"
+  }
+]

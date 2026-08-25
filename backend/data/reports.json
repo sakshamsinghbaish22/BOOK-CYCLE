@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "rep_08a9b20ecafa",
+    "reporter_id": "user_student_001",
+    "reporter_name": "Alex Rivera",
+    "report_type": "book",
+    "target_id": "book_11de3a90a378",
+    "target_title": "Discrete Mathematics",
+    "reason": "incorrect_info",
+    "description": "Test report verification on listing information.",
+    "status": "resolved",
+    "action_taken": "Verified and resolved",
+    "created_at": "2026-08-25T16:07:53.243976",
+    "resolved_at": "2026-08-25T16:07:53.263792",
+    "updated_at": "2026-08-25T16:07:53.263828"
+  }
+]

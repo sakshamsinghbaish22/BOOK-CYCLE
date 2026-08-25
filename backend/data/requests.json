@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "req_0e8cb63c8d2c",
+    "book_id": "book_11de3a90a378",
+    "book_title": "Discrete Mathematics and Its Applications",
+    "book_image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600",
+    "book_price": 29.5,
+    "book_listing_type": "Sell",
+    "requester_id": "user_student_001",
+    "requester_name": "Alex Rivera",
+    "requester_college": "Stanford University",
+    "requester_avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+    "owner_id": "user_seller_001",
+    "owner_name": "Elena Rostova",
+    "owner_college": "MIT - Computer Science & AI Lab",
+    "request_type": "buy",
+    "offered_exchange_item": "",
+    "message": "Hi! Would love to buy this textbook tomorrow afternoon.",
+    "contact_phone": "+1 555-0199",
+    "status": "completed",
+    "created_at": "2026-08-25T16:07:53.169816",
+    "updated_at": "2026-08-25T16:07:53.207582"
+  }
+]
