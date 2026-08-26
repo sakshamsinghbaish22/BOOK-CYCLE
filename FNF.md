@@ -21,15 +21,15 @@ Every textbook on the platform is available for **100% Free (₹0)** to eliminat
   - *Business & Management* (Marketing & Core Management)
 - **Direct Campus Handover**: Specific handover locations listed (e.g., *Central Library*, *CS Block Lawn*, *Hostel Area*).
 
-### 2. 🛡️ GL Bajaj Platform Admins (Chainsaw Man Anime Avatars)
+### 2. 🛡️ GL Bajaj Platform Admins (Alphabetical Order & Anime Avatars)
 The platform is moderated by 4 verified campus administrators:
 
 | Admin Name | Username / Email | Password | Anime Avatar |
 | :--- | :--- | :--- | :--- |
-| **Saksham Singh** | `sakshamsingh` or `sakshamsingh@bookcycle.edu` | `sakshamsingh@123` | 🪚 **Denji (Protagonist)** |
-| **Purvi** | `purvi` or `purvi@bookcycle.edu` | `purvi@123` | 👁️ **Makima** |
-| **Priyanshi** | `priyanshi` or `priyanshi@bookcycle.edu` | `priyanshi@123` | 🌸 **Makima Portrait** |
+| **Priyanshi Chaudhary** | `priyanshi` or `priyanshi@bookcycle.edu` | `priyanshi@123` | 🌸 **Makima Portrait** |
+| **Purvi Chaurasia** | `purvi` or `purvi@bookcycle.edu` | `purvi@123` | 👁️ **Makima** |
 | **Riya Singh** | `riyasingh` or `riyasingh@bookcycle.edu` | `riyasingh@123` | 💣 **Reze** |
+| **Saksham Singh** | `sakshamsingh` or `sakshamsingh@bookcycle.edu` | `sakshamsingh@123` | 🪚 **Denji (Protagonist)** |
 
 > **Note**: Admins can log in using either their plain **username** (e.g. `sakshamsingh`) or their **full email** (`sakshamsingh@bookcycle.edu`), or by clicking the **1-Click Quick Login** buttons on the login page.
 

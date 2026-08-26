@@ -2,29 +2,29 @@ import os
 from datetime import datetime
 from app.utils.security import hash_password
 
-# 4 platform administrators & contributors at GL Bajaj Institute of Technology (Chainsaw Man Theme)
+# 4 platform administrators & contributors at GL Bajaj Institute of Technology (Alphabetical Order)
 INITIAL_USERS = [
     {
-        "_id": "user_admin_saksham",
-        "name": "Saksham Singh",
-        "email": "sakshamsingh@bookcycle.edu",
-        "password_hash": hash_password("sakshamsingh@123"),
+        "_id": "user_admin_priyanshi",
+        "name": "Priyanshi Chaudhary",
+        "email": "priyanshi@bookcycle.edu",
+        "password_hash": hash_password("priyanshi@123"),
         "college": "GL Bajaj Institute of Technology • Campus Admin",
-        "phone": "+91 98765 43210",
-        "profile_image": "/avatars/denji.jpg",
+        "phone": "+91 98223 44556",
+        "profile_image": "/avatars/priyanshi.jpg",
         "role": "admin",
         "is_active": True,
         "rating": None,
         "review_count": 0,
         "completed_transactions": 0,
-        "listings_count": 2,
-        "bio": "BookCycle Lead Admin at GL Bajaj Institute of Technology. Chainsaw Man protagonist spirit.",
+        "listings_count": 1,
+        "bio": "BookCycle Admin at GL Bajaj Institute of Technology.",
         "created_at": datetime.utcnow().isoformat(),
         "updated_at": datetime.utcnow().isoformat()
     },
     {
         "_id": "user_admin_purvi",
-        "name": "Purvi",
+        "name": "Purvi Chaurasia",
         "email": "purvi@bookcycle.edu",
         "password_hash": hash_password("purvi@123"),
         "college": "GL Bajaj Institute of Technology • Campus Admin",
@@ -37,24 +37,6 @@ INITIAL_USERS = [
         "completed_transactions": 0,
         "listings_count": 1,
         "bio": "BookCycle Platform Admin at GL Bajaj Institute of Technology.",
-        "created_at": datetime.utcnow().isoformat(),
-        "updated_at": datetime.utcnow().isoformat()
-    },
-    {
-        "_id": "user_admin_priyanshi",
-        "name": "Priyanshi",
-        "email": "priyanshi@bookcycle.edu",
-        "password_hash": hash_password("priyanshi@123"),
-        "college": "GL Bajaj Institute of Technology • Campus Admin",
-        "phone": "+91 98223 44556",
-        "profile_image": "/avatars/power.jpg",
-        "role": "admin",
-        "is_active": True,
-        "rating": None,
-        "review_count": 0,
-        "completed_transactions": 0,
-        "listings_count": 1,
-        "bio": "BookCycle Admin at GL Bajaj Institute of Technology.",
         "created_at": datetime.utcnow().isoformat(),
         "updated_at": datetime.utcnow().isoformat()
     },
@@ -73,6 +55,24 @@ INITIAL_USERS = [
         "completed_transactions": 0,
         "listings_count": 1,
         "bio": "BookCycle Admin at GL Bajaj Institute of Technology.",
+        "created_at": datetime.utcnow().isoformat(),
+        "updated_at": datetime.utcnow().isoformat()
+    },
+    {
+        "_id": "user_admin_saksham",
+        "name": "Saksham Singh",
+        "email": "sakshamsingh@bookcycle.edu",
+        "password_hash": hash_password("sakshamsingh@123"),
+        "college": "GL Bajaj Institute of Technology • Campus Admin",
+        "phone": "+91 98765 43210",
+        "profile_image": "/avatars/denji.jpg",
+        "role": "admin",
+        "is_active": True,
+        "rating": None,
+        "review_count": 0,
+        "completed_transactions": 0,
+        "listings_count": 2,
+        "bio": "BookCycle Lead Admin at GL Bajaj Institute of Technology. Chainsaw Man protagonist spirit.",
         "created_at": datetime.utcnow().isoformat(),
         "updated_at": datetime.utcnow().isoformat()
     }

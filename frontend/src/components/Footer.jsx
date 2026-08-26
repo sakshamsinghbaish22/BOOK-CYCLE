@@ -68,10 +68,10 @@ export default function Footer() {
               GL Bajaj Admins
             </h4>
             <ul className="space-y-2 text-xs">
-              <li className="text-slate-300 font-semibold">🛡️ Saksham Singh</li>
-              <li className="text-slate-300 font-semibold">🛡️ Purvi</li>
-              <li className="text-slate-300 font-semibold">🛡️ Priyanshi</li>
+              <li className="text-slate-300 font-semibold">🛡️ Priyanshi Chaudhary</li>
+              <li className="text-slate-300 font-semibold">🛡️ Purvi Chaurasia</li>
               <li className="text-slate-300 font-semibold">🛡️ Riya Singh</li>
+              <li className="text-slate-300 font-semibold">🛡️ Saksham Singh</li>
             </ul>
           </div>
 

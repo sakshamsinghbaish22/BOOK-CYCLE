@@ -26,8 +26,8 @@
     "status": "available",
     "views_count": 12,
     "wishlist_count": 9,
-    "created_at": "2026-08-25T17:28:14.226297",
-    "updated_at": "2026-08-25T17:28:16.627960"
+    "created_at": "2026-08-26T17:28:57.031646",
+    "updated_at": "2026-08-26T17:29:01.937882"
   },
   {
     "_id": "book_cs_002",
@@ -56,8 +56,8 @@
     "status": "available",
     "views_count": 15,
     "wishlist_count": 18,
-    "created_at": "2026-08-25T17:28:14.226320",
-    "updated_at": "2026-08-25T17:28:16.632045"
+    "created_at": "2026-08-26T17:28:57.031685",
+    "updated_at": "2026-08-26T17:29:01.946970"
   },
   {
     "_id": "book_math_001",
@@ -86,8 +86,8 @@
     "status": "available",
     "views_count": 9,
     "wishlist_count": 6,
-    "created_at": "2026-08-25T17:28:14.226339",
-    "updated_at": "2026-08-25T17:28:16.635100"
+    "created_at": "2026-08-26T17:28:57.031722",
+    "updated_at": "2026-08-26T17:29:01.950009"
   },
   {
     "_id": "book_eng_001",
@@ -146,8 +146,8 @@
     "status": "available",
     "views_count": 7,
     "wishlist_count": 8,
-    "created_at": "2026-08-25T17:28:14.226379",
-    "updated_at": "2026-08-25T17:28:16.639761"
+    "created_at": "2026-08-26T17:28:57.031801",
+    "updated_at": "2026-08-26T17:29:01.956482"
   },
   {
     "_id": "book_exam_001",
@@ -206,8 +206,8 @@
     "status": "available",
     "views_count": 14,
     "wishlist_count": 7,
-    "created_at": "2026-08-25T17:28:14.226359",
-    "updated_at": "2026-08-25T17:28:16.637462"
+    "created_at": "2026-08-26T17:28:57.031761",
+    "updated_at": "2026-08-26T17:29:01.953821"
   },
   {
     "_id": "book_lit_001",

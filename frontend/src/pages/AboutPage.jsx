@@ -55,7 +55,7 @@ export default function AboutPage() {
           </div>
           <h3 className="text-base font-bold text-white">GL Bajaj Verified</h3>
           <p className="text-xs text-slate-300 leading-relaxed">
-            All listings are curated by campus admins (Saksham Singh, Purvi, Priyanshi, and Riya Singh) for reliable on-campus handover.
+            All listings are curated by campus admins (Priyanshi Chaudhary, Purvi Chaurasia, Riya Singh, and Saksham Singh) for reliable on-campus handover.
           </p>
         </div>
       </div>
@@ -67,31 +67,35 @@ export default function AboutPage() {
           <h2 className="text-lg font-bold text-white">GL Bajaj Platform Team</h2>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+          {/* 1. Priyanshi Chaudhary */}
           <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3">
-            <img src="/avatars/denji.jpg" alt="Saksham Singh" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
+            <img src="/avatars/priyanshi.jpg" alt="Priyanshi Chaudhary" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
             <div>
-              <p className="text-xs font-bold text-white">Saksham Singh</p>
+              <p className="text-xs font-bold text-white">Priyanshi Chaudhary</p>
               <p className="text-[10px] text-amber-300">Platform Admin</p>
             </div>
           </div>
+          {/* 2. Purvi Chaurasia */}
           <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3">
-            <img src="/avatars/makima.jpg" alt="Purvi" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
+            <img src="/avatars/makima.jpg" alt="Purvi Chaurasia" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
             <div>
-              <p className="text-xs font-bold text-white">Purvi</p>
+              <p className="text-xs font-bold text-white">Purvi Chaurasia</p>
               <p className="text-[10px] text-amber-300">Platform Admin</p>
             </div>
           </div>
-          <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3">
-            <img src="/avatars/priyanshi.jpg" alt="Priyanshi" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
-            <div>
-              <p className="text-xs font-bold text-white">Priyanshi</p>
-              <p className="text-[10px] text-amber-300">Platform Admin</p>
-            </div>
-          </div>
+          {/* 3. Riya Singh */}
           <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3">
             <img src="/avatars/reze.jpg" alt="Riya Singh" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
             <div>
               <p className="text-xs font-bold text-white">Riya Singh</p>
+              <p className="text-[10px] text-amber-300">Platform Admin</p>
+            </div>
+          </div>
+          {/* 4. Saksham Singh */}
+          <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3">
+            <img src="/avatars/denji.jpg" alt="Saksham Singh" className="w-10 h-10 rounded-xl object-cover ring-1 ring-amber-400" />
+            <div>
+              <p className="text-xs font-bold text-white">Saksham Singh</p>
               <p className="text-[10px] text-amber-300">Platform Admin</p>
             </div>
           </div>

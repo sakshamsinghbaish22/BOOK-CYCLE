@@ -321,46 +321,33 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
             
-            {/* Saksham Singh */}
-            <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/30 flex items-center gap-3.5 shadow-sm hover:border-amber-400/60 transition-all">
+            {/* 1. Priyanshi Chaudhary */}
+            <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3.5 shadow-sm hover:border-amber-400/50 transition-all">
               <img
-                src="/avatars/denji.jpg"
-                alt="Saksham Singh"
-                className="w-12 h-12 rounded-xl object-cover ring-2 ring-amber-400 shadow-glow-amber shrink-0"
+                src="/avatars/priyanshi.jpg"
+                alt="Priyanshi Chaudhary"
+                className="w-12 h-12 rounded-xl object-cover ring-2 ring-amber-400/60 shrink-0"
               />
               <div className="min-w-0 flex-1">
-                <p className="font-bold text-sm text-white truncate">Saksham Singh</p>
+                <p className="font-bold text-sm text-white truncate">Priyanshi Chaudhary</p>
                 <p className="text-xs text-slate-300 truncate">GL Bajaj Institute of Technology</p>
               </div>
             </div>
 
-            {/* Purvi */}
+            {/* 2. Purvi Chaurasia */}
             <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3.5 shadow-sm hover:border-amber-400/50 transition-all">
               <img
                 src="/avatars/makima.jpg"
-                alt="Purvi"
+                alt="Purvi Chaurasia"
                 className="w-12 h-12 rounded-xl object-cover ring-2 ring-amber-400/60 shrink-0"
               />
               <div className="min-w-0 flex-1">
-                <p className="font-bold text-sm text-white truncate">Purvi</p>
+                <p className="font-bold text-sm text-white truncate">Purvi Chaurasia</p>
                 <p className="text-xs text-slate-300 truncate">GL Bajaj Institute of Technology</p>
               </div>
             </div>
 
-            {/* Priyanshi */}
-            <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3.5 shadow-sm hover:border-amber-400/50 transition-all">
-              <img
-                src="/avatars/power.jpg"
-                alt="Priyanshi"
-                className="w-12 h-12 rounded-xl object-cover ring-2 ring-amber-400/60 shrink-0"
-              />
-              <div className="min-w-0 flex-1">
-                <p className="font-bold text-sm text-white truncate">Priyanshi</p>
-                <p className="text-xs text-slate-300 truncate">GL Bajaj Institute of Technology</p>
-              </div>
-            </div>
-
-            {/* Riya Singh */}
+            {/* 3. Riya Singh */}
             <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/20 flex items-center gap-3.5 shadow-sm hover:border-amber-400/50 transition-all">
               <img
                 src="/avatars/reze.jpg"
@@ -369,6 +356,19 @@ export default function HomePage() {
               />
               <div className="min-w-0 flex-1">
                 <p className="font-bold text-sm text-white truncate">Riya Singh</p>
+                <p className="text-xs text-slate-300 truncate">GL Bajaj Institute of Technology</p>
+              </div>
+            </div>
+
+            {/* 4. Saksham Singh */}
+            <div className="p-4 rounded-2xl bg-midnight-950/70 border border-amber-400/30 flex items-center gap-3.5 shadow-sm hover:border-amber-400/60 transition-all">
+              <img
+                src="/avatars/denji.jpg"
+                alt="Saksham Singh"
+                className="w-12 h-12 rounded-xl object-cover ring-2 ring-amber-400 shadow-glow-amber shrink-0"
+              />
+              <div className="min-w-0 flex-1">
+                <p className="font-bold text-sm text-white truncate">Saksham Singh</p>
                 <p className="text-xs text-slate-300 truncate">GL Bajaj Institute of Technology</p>
               </div>
             </div>

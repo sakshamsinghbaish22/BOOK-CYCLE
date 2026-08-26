@@ -75,7 +75,7 @@
     "_id": "user_admin_saksham",
     "name": "Saksham Singh",
     "email": "sakshamsingh@bookcycle.edu",
-    "password_hash": "$2b$12$3Wu5nCSy0XCuGzJ2.i18sO/xIvhn93sulqa5r/uKLaB9cLx/MOc3e",
+    "password_hash": "$2b$12$k7HfMwf3Ol1Z1l77saztGuHPqR4yB5ZUeex4o535B13HRWNkX27eG",
     "college": "GL Bajaj Institute of Technology \u2022 Campus Admin",
     "phone": "+91 98765 43210",
     "profile_image": "/avatars/denji.jpg",
@@ -86,14 +86,14 @@
     "completed_transactions": 0,
     "listings_count": 2,
     "bio": "BookCycle Lead Admin at GL Bajaj Institute of Technology. Chainsaw Man protagonist spirit.",
-    "created_at": "2026-08-25T17:28:12.672577",
-    "updated_at": "2026-08-25T17:28:16.619567"
+    "created_at": "2026-08-26T17:28:57.031598",
+    "updated_at": "2026-08-26T17:29:01.934521"
   },
   {
     "_id": "user_admin_purvi",
-    "name": "Purvi",
+    "name": "Purvi Chaurasia",
     "email": "purvi@bookcycle.edu",
-    "password_hash": "$2b$12$l/Wyjp/UzO.xZW6Q/mBSouj2CmNS5n1hRbPpPZEOBqvSV/YgBPaGe",
+    "password_hash": "$2b$12$.H0xwflbE.1GCr53Ebs.3uSc8qxho5LlewiA/PUsXeg4d82K7Wprm",
     "college": "GL Bajaj Institute of Technology \u2022 Campus Admin",
     "phone": "+91 98112 33445",
     "profile_image": "/avatars/makima.jpg",
@@ -104,17 +104,17 @@
     "completed_transactions": 0,
     "listings_count": 1,
     "bio": "BookCycle Platform Admin at GL Bajaj Institute of Technology.",
-    "created_at": "2026-08-25T17:28:13.206794",
-    "updated_at": "2026-08-25T17:28:16.621543"
+    "created_at": "2026-08-26T17:28:55.876948",
+    "updated_at": "2026-08-26T17:29:01.928571"
   },
   {
     "_id": "user_admin_priyanshi",
-    "name": "Priyanshi",
+    "name": "Priyanshi Chaudhary",
     "email": "priyanshi@bookcycle.edu",
-    "password_hash": "$2b$12$AJfzov0Nqntx.5OlJfLna.lbOsGRAB76G1PXzDcQ5VfnY/UIuxcq6",
+    "password_hash": "$2b$12$/LwDkLKKbl4Q66GTshoKPu3XzyPm4wqhiBm1oF3vOsmxhTmFF1ri.",
     "college": "GL Bajaj Institute of Technology \u2022 Campus Admin",
     "phone": "+91 98223 44556",
-    "profile_image": "/avatars/power.jpg",
+    "profile_image": "/avatars/priyanshi.jpg",
     "role": "admin",
     "is_active": true,
     "rating": null,
@@ -122,14 +122,14 @@
     "completed_transactions": 0,
     "listings_count": 1,
     "bio": "BookCycle Admin at GL Bajaj Institute of Technology.",
-    "created_at": "2026-08-25T17:28:13.754574",
-    "updated_at": "2026-08-25T17:28:16.623673"
+    "created_at": "2026-08-26T17:28:55.284841",
+    "updated_at": "2026-08-26T17:29:01.918839"
   },
   {
     "_id": "user_admin_riya",
     "name": "Riya Singh",
     "email": "riyasingh@bookcycle.edu",
-    "password_hash": "$2b$12$mvkHOqRECJWqtcLhRO1Bae7wgVOu.OPLT1ZW7FqPS2yOiLHveXKP6",
+    "password_hash": "$2b$12$0diTvS/MisxFQzSSo/JznOJPi2NbfHESPBOPuiui6wAzWIVtP/D.y",
     "college": "GL Bajaj Institute of Technology \u2022 Campus Admin",
     "phone": "+91 98334 55667",
     "profile_image": "/avatars/reze.jpg",
@@ -140,8 +140,8 @@
     "completed_transactions": 0,
     "listings_count": 1,
     "bio": "BookCycle Admin at GL Bajaj Institute of Technology.",
-    "created_at": "2026-08-25T17:28:14.226266",
-    "updated_at": "2026-08-25T17:28:16.625940"
+    "created_at": "2026-08-26T17:28:56.473910",
+    "updated_at": "2026-08-26T17:29:01.931851"
   },
   {
     "_id": "user_rohan_001",

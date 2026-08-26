@@ -79,55 +79,59 @@ export default function LoginPage() {
                 GL Bajaj Admins (1-Click Login)
               </p>
               <div className="grid grid-cols-2 gap-2">
+                {/* 1. Priyanshi Chaudhary */}
                 <button
                   type="button"
-                  onClick={() => handleQuickLogin('sakshamsingh@bookcycle.edu', 'sakshamsingh@123', 'Saksham Singh')}
-                  className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
-                  title="Username: sakshamsingh | Password: sakshamsingh@123"
-                >
-                  <img src="/avatars/denji.jpg" alt="Saksham" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400 shrink-0" />
-                  <div className="min-w-0 flex-1">
-                    <span className="text-white block truncate">Saksham Singh</span>
-                    <span className="text-[9px] text-amber-300 font-mono block truncate">sakshamsingh@123</span>
-                  </div>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => handleQuickLogin('purvi@bookcycle.edu', 'purvi@123', 'Purvi')}
-                  className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
-                  title="Username: purvi | Password: purvi@123"
-                >
-                  <img src="/avatars/makima.jpg" alt="Purvi" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
-                  <div className="min-w-0 flex-1">
-                    <span className="text-white block truncate">Purvi</span>
-                    <span className="text-[9px] text-amber-300 font-mono block truncate">purvi@123</span>
-                  </div>
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => handleQuickLogin('priyanshi@bookcycle.edu', 'priyanshi@123', 'Priyanshi')}
+                  onClick={() => handleQuickLogin('priyanshi@bookcycle.edu', 'priyanshi@123', 'Priyanshi Chaudhary')}
                   className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
                   title="Username: priyanshi | Password: priyanshi@123"
                 >
-                  <img src="/avatars/power.jpg" alt="Priyanshi" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
+                  <img src="/avatars/priyanshi.jpg" alt="Priyanshi Chaudhary" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
                   <div className="min-w-0 flex-1">
-                    <span className="text-white block truncate">Priyanshi</span>
+                    <span className="text-white block truncate">Priyanshi Chaudhary</span>
                     <span className="text-[9px] text-amber-300 font-mono block truncate">priyanshi@123</span>
                   </div>
                 </button>
 
+                {/* 2. Purvi Chaurasia */}
+                <button
+                  type="button"
+                  onClick={() => handleQuickLogin('purvi@bookcycle.edu', 'purvi@123', 'Purvi Chaurasia')}
+                  className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
+                  title="Username: purvi | Password: purvi@123"
+                >
+                  <img src="/avatars/makima.jpg" alt="Purvi Chaurasia" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
+                  <div className="min-w-0 flex-1">
+                    <span className="text-white block truncate">Purvi Chaurasia</span>
+                    <span className="text-[9px] text-amber-300 font-mono block truncate">purvi@123</span>
+                  </div>
+                </button>
+
+                {/* 3. Riya Singh */}
                 <button
                   type="button"
                   onClick={() => handleQuickLogin('riyasingh@bookcycle.edu', 'riyasingh@123', 'Riya Singh')}
                   className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
                   title="Username: riyasingh | Password: riyasingh@123"
                 >
-                  <img src="/avatars/reze.jpg" alt="Riya" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
+                  <img src="/avatars/reze.jpg" alt="Riya Singh" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400/60 shrink-0" />
                   <div className="min-w-0 flex-1">
                     <span className="text-white block truncate">Riya Singh</span>
                     <span className="text-[9px] text-amber-300 font-mono block truncate">riyasingh@123</span>
+                  </div>
+                </button>
+
+                {/* 4. Saksham Singh */}
+                <button
+                  type="button"
+                  onClick={() => handleQuickLogin('sakshamsingh@bookcycle.edu', 'sakshamsingh@123', 'Saksham Singh')}
+                  className="text-left p-2.5 rounded-xl bg-midnight-900/90 hover:bg-amber-500/20 border border-amber-500/30 text-[11px] font-bold text-slate-100 transition-all hover:border-amber-400 flex items-center gap-2.5"
+                  title="Username: sakshamsingh | Password: sakshamsingh@123"
+                >
+                  <img src="/avatars/denji.jpg" alt="Saksham Singh" className="w-8 h-8 rounded-lg object-cover ring-1 ring-amber-400 shrink-0" />
+                  <div className="min-w-0 flex-1">
+                    <span className="text-white block truncate">Saksham Singh</span>
+                    <span className="text-[9px] text-amber-300 font-mono block truncate">sakshamsingh@123</span>
                   </div>
                 </button>
               </div>
